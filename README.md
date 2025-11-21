@@ -62,11 +62,10 @@ def q_learning(env,
 ```
 
 ## OUTPUT:
-<img width="533" height="718" alt="Screenshot 2025-11-15 191252" src="https://github.com/user-attachments/assets/93d5c5ee-ec21-46ef-9d59-d42d1d04536d" />
-<img width="558" height="621" alt="Screenshot 2025-11-15 191414" src="https://github.com/user-attachments/assets/c5e6fcc0-35ba-4836-8103-309d782d4c12" />
-<img width="409" height="163" alt="Screenshot 2025-11-15 191521" src="https://github.com/user-attachments/assets/5fe09216-7233-4e51-80e0-3a699ead6585" />
-<img width="556" height="612" alt="Screenshot 2025-11-15 191638" src="https://github.com/user-attachments/assets/8761f775-ec13-4af4-9b51-e66fcf1218ce" />
-<img width="421" height="124" alt="Screenshot 2025-11-15 191740" src="https://github.com/user-attachments/assets/f55d7632-1e9a-4e85-9f66-3793d55666fb" />
+<img width="863" height="648" alt="image" src="https://github.com/user-attachments/assets/d0db2451-d320-47b7-9e91-224e5180e473" />
+<img width="1158" height="111" alt="image" src="https://github.com/user-attachments/assets/671d8630-2e7a-4772-9fc8-9f4acbbdcd06" />
+<img width="1180" height="725" alt="image" src="https://github.com/user-attachments/assets/bb17ae26-a39f-4a42-ac09-dead61c018e6" />
+<img width="1045" height="689" alt="image" src="https://github.com/user-attachments/assets/647a667f-2906-472b-8a52-70715cfb7553" />
 <img width="1645" height="664" alt="image" src="https://github.com/user-attachments/assets/ea9f5c18-0db6-4d66-a2c2-d227e160d71c" />
 <img width="1693" height="744" alt="image" src="https://github.com/user-attachments/assets/e1962d27-47c6-44ce-98dc-824730ddd3db" />
 
