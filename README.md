@@ -67,8 +67,8 @@ def q_learning(env,
 <img width="409" height="163" alt="Screenshot 2025-11-15 191521" src="https://github.com/user-attachments/assets/5fe09216-7233-4e51-80e0-3a699ead6585" />
 <img width="556" height="612" alt="Screenshot 2025-11-15 191638" src="https://github.com/user-attachments/assets/8761f775-ec13-4af4-9b51-e66fcf1218ce" />
 <img width="421" height="124" alt="Screenshot 2025-11-15 191740" src="https://github.com/user-attachments/assets/f55d7632-1e9a-4e85-9f66-3793d55666fb" />
-<img width="1205" height="496" alt="image" src="https://github.com/user-attachments/assets/c2bc61be-b9bd-48d9-909c-0e6342d30a83" />
-<img width="1223" height="490" alt="image" src="https://github.com/user-attachments/assets/6757b17b-8e22-4a2f-94b9-3b892a2865ee" />
+<img width="1645" height="664" alt="image" src="https://github.com/user-attachments/assets/ea9f5c18-0db6-4d66-a2c2-d227e160d71c" />
+<img width="1693" height="744" alt="image" src="https://github.com/user-attachments/assets/e1962d27-47c6-44ce-98dc-824730ddd3db" />
 
 
 ## RESULT:
